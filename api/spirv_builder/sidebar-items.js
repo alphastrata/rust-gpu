@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TARGET_SPEC_DIR_PATH"],"enum":["Capability","MetadataPrintout","ModuleResult","ShaderPanicStrategy","SpirvBuilderError","SpirvMetadata"],"fn":["query_rustc_version"],"mod":["cargo_cmd"],"struct":["CompileResult","OptimizerOptions","ShaderCrateFeatures","SpirvBuilder","ValidatorOptions"]};
